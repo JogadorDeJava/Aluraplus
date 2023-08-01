@@ -16,7 +16,7 @@ body{
     background-color: var(--cor_de_fundo);
     color: var(--titulo);
     font-family: var(--font_pricipal);
-    font-size: 2rem;
+    font-size: 2em;
     font-weight: 400;
 }
 
@@ -43,7 +43,7 @@ body{
 }
 
 .container__titulo{
-    font-size: 2em;
+    font-size: 1em;
     font-weight: 700;
     align-items: center;
     text-align: center;
